@@ -1,0 +1,15 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "V. H.", email = "yhorng@zoho.com"},
+]
+dependencies = [
+    "parsimonious @ https://github.com/erikrose/parsimonious/archive/refs/tags/0.10.0.tar.gz",
+    "google-apps-script-type>=0.3.2",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
